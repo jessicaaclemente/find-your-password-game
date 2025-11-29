@@ -221,9 +221,9 @@ int main()
 	}
 
 	if (senhaUsuario == senha)
-		cout << "Parabéns! Você venceu!";
+		cout << "Parabéns! Você venceu! XD";
 	else
-		cout << "Você perdeu!";
+		cout << "Você perdeu! :(";
 
 	return 0;
 }
